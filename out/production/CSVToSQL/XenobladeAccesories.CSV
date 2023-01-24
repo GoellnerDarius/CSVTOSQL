@@ -1,0 +1,278 @@
+Name;Effect;Rarity/ Points;;
+Titanium Temple Guard;Boosts maximum HP;32%;31%;30%
+Iron Temple Guard;Boosts maximum HP;27%;26%;25%
+Bronze Temple Guard;Boosts maximum HP;22%;21%;20%
+Saturni Ring;Boosts Attack;40%;N/A;N/A
+Ceramic Belt;Boosts Attack;32%;31%;30%
+Silver Belt;Boosts Attack;27%;26%;25%
+Steam Belt;Boosts Attack;22%;21%;20%
+Solis Ring;Boosts Healing;40%;N/A;N/A
+Circlet of Enlightenment;Boosts Healing;32%;31%;30%
+Circlet of Wisdom;Boosts Healing;27%;26%;25%
+Circlet of Intellect;Boosts Healing;22%;21%;20%
+Carbon Gloves;Boosts Dexterity;32%;31%;30%
+Hero Gloves;Boosts Dexterity;27%;26%;25%
+Rainbow Gloves;Boosts Dexterity;22%;21%;20%
+Iovis Rings;Boosts Agility;40%;N/A;N/A
+Titanium Support;Boosts Agility;32%;31%;30%
+Jade Support;Boosts Agility;27%;26%;25%
+Gear Support;Boosts Agility;22%;21%;20%
+Mercurii Rings;Boosts Critical Rate;60%;N/A;N/A
+Crimson Headband;Boosts Critical Rate;45%;42%;40%
+Optical Headband;Boosts Critical Rate;32%;30%;25%
+Ice Headband;Boosts Critical Rate;25%;22%;20%
+Thermo Headgear;Increases Critical Rate by percentage points;17;16;15
+Detector Headgear;Increases Critical Rate by percentage points;12;11;10
+Search Headgear;Increases Critical Rate by percentage points;7;6;5
+Berserker's Armor Vest;Boosts Physical Defense;22%;21%;20%
+Fierce Armor Vest;Boosts Physical Defense;17%;16%;15%
+Warrior's Armor Vest;Boosts Physical Defense;12%;11%;10%
+Sergeant's Headband;Increases Physical Defense by percentage points;12;11;10
+Soldier's Headband;Increases Physical Defense by percentage points;7;6;5
+Asylum Lining;Boosts Ether Defense;22%;21%;20%
+Shell Lining;Boosts Ether Defense;17%;16%;15%
+Armored Lining;Boosts Ether Defense;12%;11%;10%
+Crystalline Chemise;Increases Ether Defense by percentage points;12;11;10
+Swimmer's Chemise;Increases Ether Defense by percentage points;7;6;5
+Martis Rings;Boosts Block Rate;60%;N/A;N/A
+Solid Weak Guard;Boosts Block Rate;42%;41%;40%
+Heavy Weak Guard;Boosts Block Rate;32%;31%;30%
+Light Weak Guard;Boosts Block Rate;22%;21%;20%
+Shield Belt;Deal 50% less damage but take less damage;30%;27%;25%
+Plate Belt;Deal 30% less damage but take less damage;20%;17%;15%
+Hyper Protector;Boosts Block rate when HP is at 30% or lower;42%;41%;40%
+Smart Protector;Boosts Block rate when HP is at 30% or lower;37%;35%;32%
+Shell Protector;Boosts Block rate when HP is at 30% or lower;32%;31%;30%
+Feather Misanga;Boosts evasion when HP is at 30% or lower;27%;26%;25%
+Iron Misanga;Boosts evasion when HP is at 30% or lower;22%;21%;20%
+Misanga;Boosts evasion when HP is at 30% or lower;17%;16%;15%
+Survivor Kneeguard;Boosts evasion by while moving;22%;21%;20%
+Scout's Kneeguard;Boosts evasion by while moving;17%;16%;15%
+Herald's Kneeguard;Boosts evasion by while moving;12%;11%;10%
+Metal Foot Protector;Boosts evasion by while stationary or auto-attacking;22%;21%;20%
+Heavy Foot Protector;Boosts evasion by while stationary or auto-attacking;17%;16%;15%
+Foot Protector;Boosts evasion by while stationary or auto-attacking;12%;11%;10%
+Tactical Gloves;Boosts evasion by while Art is active;22%;21%;20%
+Engineer Gloves;Boosts evasion by while Art is active;17%;16%;15%
+Work Gloves;Boosts evasion by while Art is active;12%;11%;10%
+Fighting Headband;Adds 10% chance to grant Power Charge when evading;YES;N/A;N/A
+Vigorous Anklets;Reduce damage taken while performing Art;25%;22%;20%
+Sturdy Anklets;Reduce damage taken while performing Art;15%;12%;10%
+Induction Bangle;Boosts damage dealt when attacking from the front;29%;27%;25%
+Strike Bangle;Boosts damage dealt when attacking from the front;24%;22%;20%
+Power Bangle;Boosts damage dealt when attacking from the front;19%;17%;15%
+Jewel Beetle Gauntlet;Boosts damage dealt when attacking from the side;29%;27%;25%
+Adamantine Gauntlet;Boosts damage dealt when attacking from the side;24%;22%;20%
+Bronze Gauntlet;Boosts damage dealt when attacking from the side;19%;17%;15%
+Scale Mask;Boosts damage dealt when attacking from behind;29%;27%;25%
+Ghillie Mask;Boosts damage dealt when attacking from behind;24%;22%;20%
+Beast Mask;Boosts damage dealt when attacking from behind;19%;17%;15%
+Champion Belt;Boosts damage dealt when attacking toppled enemies;110%;105%;100%
+Muscle Belt;Boosts damage dealt when attacking toppled enemies;85%;80%;75%
+Beast-Hide Vest;Boosts damage dealt when attacking toppled enemies;60%;55%;50%
+Fiber Wraps;Boosts damage dealt when attacking launched enemies;110%;105%;100%
+Leather Wraps;Boosts damage dealt when attacking launched enemies;85%;80%;75%
+White Wraps;Boosts damage dealt when attacking launched enemies;60%;55%;50%
+Hero Pauldrons;Boosts Smash damage;110%;105%;100%
+Jet Pauldrons;Boosts Smash damage;85%;80%;75%
+Spiked Pauldrons;Boosts Smash damage;60%;55%;50%
+Strung Lapis Lazuli;Boosts damage dealt when attacking dazed enemies;110%;105%;100%
+Strung Jade;Boosts damage dealt when attacking dazed enemies;85%;80%;75%
+Strung Amber;Boosts damage dealt when attacking dazed enemies;60%;55%;50%
+Cosmos Anklets;Extends duration when quelling enemy rage with Burst;110%;105%;100%
+Moon Anklets;Extends duration when quelling enemy rage with Burst;85%;80%;75%
+Star Anklets;Extends duration when quelling enemy rage with Burst;60%;55%;50%
+Hermit Mask;Boosts damage dealt to Terrestrial Life;100%;95%;90%
+Shadow Mask;Boosts damage dealt to Terrestrial Life;80%;75%;70%
+Black Mask;Boosts damage dealt to Terrestrial Life;60%;55%;50%
+Rainbow Feather Band;Boosts damage dealt to Aerial Life;100%;95%;90%
+Black Feather Band;Boosts damage dealt to Aerial Life;80%;75%;70%
+Feather Band;Boosts damage dealt to Aerial Life;60%;55%;50%
+Crushing Weapon Belt;Boosts damage dealt to Aquatic Life;100%;95%;90%
+Firearm Belt;Boosts damage dealt to Aquatic Life;80%;75%;70%
+Slashing Weapon Belt;Boosts damage dealt to Aquatic Life;60%;55%;50%
+Fiber Belt;Boosts damage dealt to Machines;100%;95%;90%
+Work Belt;Boosts damage dealt to Machines;80%;75%;70%
+Tool Belt;Boosts damage dealt to Machines;60%;55%;50%
+Cyrus Leg Frame;Boost damage dealt for the first 30 seconds of battle;60%;55%;50%
+Gale Leg Frame;Boost damage dealt for the first 30 seconds of battle;45%;40%;35%
+Wind Leg Frame;Boost damage dealt for the first 30 seconds of battle;30%;25%;20%
+Hero Vambraces;Boosts damage dealt when attacking higher-level enemies;60%;55%;50%
+Warrior's Armlet;Boosts damage dealt when attacking higher-level enemies;45%;40%;35%
+Apprentice Vambraces;Boosts damage dealt when attacking higher-level enemies;30%;25%;20%
+Bloody Orb;Boosts damage dealt while an ally is incapacitated;110%;105%;100%
+Eraser Orb;Boosts damage dealt while an ally is incapacitated;80%;75%;70%
+Dark Orb;Boosts damage dealt while an ally is incapacitated;60%;55%;50%
+Storm Necklace;Boosts damage dealt when HP is at 30% or lower;35%;32%;30%
+Buffeting Necklace;Boosts damage dealt when HP is at 30% or lower;25%;22%;20%
+Whirlwind Necklace;Boosts damage dealt when HP is at 30% or lower;15%;12%;10%
+Lustrous Armring;Boosts damage dealt when HP is at 90% or higher;35%;32%;30%
+Florid Armring;Boosts damage dealt when HP is at 90% or higher;25%;22%;20%
+Vibrant Armring;Boosts damage dealt when HP is at 90% or higher;15%;12%;10%
+Beautiful Crystal;Boosts damage dealt per enemy defeated (to a maximum of 250%);60%;55%;50%
+Warped Crystal;Boosts damage dealt per enemy defeated (to a maximum of 250%);45%;40%;35%
+Cracked Crystal;Boosts damage dealt per enemy defeated (to a maximum of 250%);30%;25%;20%
+Violent Stone;Boosts auto-attack damage;116%;108%;100%
+Assault Stone;Boosts auto-attack damage;91%;83%;75%
+Attack Stone;Boosts auto-attack damage;66%;58%;50%
+Dragonfang Necklace;Boosts damage dealt when attacking enemies targeting you;27%;26%;25%
+Sharpfang Necklace;Boosts damage dealt when attacking enemies targeting you;22%;21%;20%
+Beastfang Necklace;Boosts damage dealt when attacking enemies targeting you;17%;16%;15%
+Sonic Sensor;Boosts accuracy during the night;60%;55%;50%
+Ultra Aural Sensor;Boosts accuracy during the night;45%;40%;35%
+Aural Enhance Sensor;Boosts accuracy during the night;30%;25%;20%
+Platinum Brooch;Boosts accuracy during the day;60%;55%;50%
+Gold Brooch;Boosts accuracy during the day;45%;40%;35%
+Silver Brooch;Boosts accuracy during the day;30%;25%;20%
+Special Foot Wraps;Boosts damage dealt indoors;45%;42%;40%
+Strong Foot Wraps;Boosts damage dealt indoors;35%;32%;30%
+Soft Foot Wraps;Boosts damage dealt indoors;25%;22%;20%
+Sunlight Choker;Boosts damage dealt outdoors;45%;42%;40%
+Comet Choker;Boosts damage dealt outdoors;35%;32%;30%
+Nacre Choker;Boosts damage dealt outdoors;25%;22%;20%
+Diamond;Boosts damage for every enemy in battle (max. 200%);22%;21%;20%
+Sapphire;Boosts damage for every enemy in battle (max. 200%);17%;16%;15%
+Garnet;Boosts damage for every enemy in battle (max. 200%);12%;11%;10%
+Long-Range Memory;Extends range of ranged attacks;NULL;NULL;NULL
+Auto-Balancer;When your attacks are blocked, you are not thrown off-balance;YES;N/A;N/A
+Smithy Gloves;Boosts accuracy each time an enemy evades an attack (up to maximum of 50%);5%;4,50%;4%
+Leather Gloves;Boosts accuracy each time an enemy evades an attack (up to maximum of 50%);3%;2,50%;2%
+Silver Braided Belt;Boosts damage dealt when attacking an enemy suffering from Bleed;80%;75%;70%
+Braided Belt;Boosts damage dealt when attacking an enemy suffering from Bleed;60%;55%;50%
+Flame Bangle;Boosts damage dealt when attacking an enemy suffering from Blaze;80%;75%;70%
+Fire Bangle;Boosts damage dealt when attacking an enemy suffering from Blaze;60%;55%;50%
+Chaotic Memory;Arts which are canceled into cannot be blocked or evaded;YES;N/A;N/A
+Rage Amulet;Boosts damage from Bleed;300%;275%;250%
+Tear Amulet;Boosts damage from Bleed;200%;175%;150%
+Hellfire Amulet;Boosts damage from Blaze;300%;275%;250%
+Flame Amulet;Boosts damage from Blaze;200%;175%;150%
+Lunae Rings;Boosts damage dealt by Fusion Arts;100%;N/A;N/A
+Platinum Cube;Boosts damage dealt by Fusion Arts;60%;55%;50%
+Gold Cube;Boosts damage dealt by Fusion Arts;35%;30%;25%
+Warped White Brooch;Ignores enemy's physical defense when landing a hit;30%;27%;25%
+Chipped White Brooch;Ignores enemy's physical defense when landing a hit;20%;17%;15%
+Warped Black Brooch;Ignores enemy's ether defense when landing a hit;30%;27%;25%
+Chipped Black Brooch;Ignores enemy's ether defense when landing a hit;20%;17%;15%
+Expansion Holder;Extends area of effect of attack Arts which have one by 50%;YES;N/A;N/A
+Victor Gauntlet;Deal more damage but take 20% more damage;60%;55%;50%
+Challenger Gauntlet;Deal more damage but take 10% more damage;35%;30%;25%
+Nopon Doll;When incapacitated, aggro does not reset, but remains at 60%;YES;N/A;N/A
+Gold Necklace;Reduce aggro generated from auto-attacks;50%;45%;40%
+Silver Necklace;Reduce aggro generated from auto-attacks;30%;25%;20%
+Lazure Vambraces;Boosts aggro generated form auto-attacks;40%;35%;30%
+Black Steel Band;Boosts aggro generated form auto-attacks;25%;20%;15%
+Gold Gear Choker;Boosts aggro reduction over time;130%;115%;100%
+Bunnit Choker;Boosts aggro reduction over time;80%;65%;50%
+Legendary Biter;Accrues Aggro every second (Extra-major effect.);YES;N/A;N/A
+Phantom Feather;Accrues Aggro every second (Major effect.);NULL;NULL;NULL
+Silver Feather;Accrues Aggro every second (Medium effect.);NULL;NULL;NULL
+Colorful Feather;Accrues Aggro every second (Minor effect.);NULL;NULL;NULL
+Repulsor Cuffs;Boosts aggro reduction when targeted by an enemy;60%;55%;50%
+Defense Cuffs;Boosts aggro reduction when targeted by an enemy;35%;30%;25%
+Champion Ring;When attack is evaded, increases attacker's aggro towards user;NULL;NULL;NULL
+Signet Ring;When attack is evaded, increases attacker's aggro towards user;NULL;NULL;NULL
+Glass Memory;Reduce aggro toward self by 5% when auto-attack hits;YES;N/A;N/A
+Immaculate Necklace;Boosts amount of HP healed from using healing Arts;22%;21%;20%
+Affection Necklace;Boosts amount of HP healed from using healing Arts;17%;16%;15%
+Harvest Necklace;Boosts amount of HP healed from using healing Arts;12%;11%;10%
+Affection Ring;Reduce aggro generated from healing Arts;40%;35%;30%
+Friendship Ring;Reduce aggro generated from healing Arts;25%;20%;15%
+Shell Cameo;Boosts amount of HP restored to self;12%;11%;10%
+Healing Amulet;Restores HP when a buff is applied;6%;5,50%;5%
+Activity Amulet;Restores HP when a buff is applied;3,50%;3%;2,50%
+Memory Locket;Allows reviving allies even when not in a Healer role;YES;N/A;N/A
+Prayer Necklace;Grants Armor Veil to revived allies;N/A;N/A;YES
+Emergency Bandana;Boosts ally revival speed for each incapacitated ally;YES;N/A;N/A
+Fraternal Badge;Boosts recharge speed when non-Defenders are targeted;50%;45%;40%
+Friendship Badge;Boosts recharge speed when non-Defenders are targeted;30%;25%;20%
+Mercy Earring;Boosts healing Arts recharge speed by 25% when an ally is at low HP;YES;N/A;N/A
+Rigid Support;On blocking, boosts recharge of one Art at random by 10%;YES;N/A;N/A
+Shell Necklace;Boosts recharge speed by 25% when in the water;YES;N/A;N/A
+Nopon Strap;10% chance to keep recharge when using Art;YES;N/A;N/A
+Devotional Necklace;Recovers recharge for own Arts upon reviving an ally;100%;95%;90%
+Wing Necklace;Recovers recharge for own Arts upon reviving an ally;50%;45%;40%
+Gust Bracelet;Master Arts will be charged when starting a battle;100%;95%;90%
+Wind Bracelet;Master Arts will be charged when starting a battle;50%;45%;40%
+Silver Earrings;Fills Chain Attack gauge slightly on critical hit;NULL;NULL;NULL
+Crystal Earrings;Fills Chain Attack gauge slightly on Art execution;NULL;NULL;NULL
+Veneris Rings;At start of Chain Attack, increases TP by 20;YES;N/A;N/A
+Analyzer Scope;At start of Chain Attack, increases TP by 10;YES;N/A;N/A
+Brute Memory;100% chance to survive a KO with 1 HP and five seconds of invincibility (once per battle, does not stack);YES;N/A;N/A
+Survival Belt;Increase Break resistance by percentage points;60;55;50
+Harness Belt;Increase Break resistance by percentage points;45;40;35
+Assist Belt ;Increase Break resistance by percentage points;30;25;20
+Metallic Kneeguard;Increase Topple resistance by percentage points;60;55;50
+Lead Kneeguard;Increase Topple resistance by percentage points;45;40;35
+Graphite Kneeguard;Increase Topple resistance by percentage points;30;25;20
+Power Belt;Increase Launch resistance by percentage points;60;55;50
+Iron Sash;Increase Launch resistance by percentage points;45;40;35
+Stone Belt;Increase Launch resistance by percentage points;30;25;20
+Gold Choker;Increases Smash resistance by percentage points;60;55;50
+Silver Choker;Increases Smash resistance by percentage points;45;40;35
+Bronze Choker;Increases Smash resistance by percentage points;30;25;20
+Golden Headband;Increases Daze resistance by percentage points;60;55;50
+Lazure Headband;Increases Daze resistance by percentage points;45;40;35
+Iron Headband;Increases Daze resistance by percentage points;30;25;20
+Platinum Anklets;Increase Blowdown resistance by percentage points;60;55;50
+Golden Anklets;Increase Blowdown resistance by percentage points;45;40;35
+Silver Anklets;Increase Blowdown resistance by percentage points;30;25;20
+Flood Socks;Increase Knockback resistance by percentage points;60;55;50
+Solid Socks;Increase Knockback resistance by percentage points;45;40;35
+Fur Socks;Increase Knockback resistance by percentage points;30;25;20
+Belemnite Bangle;Grants resistance to Shackle Healing;100%;95%;90%
+Charm Bangle;Grants resistance to Shackle Healing;70%;65%;60%
+Moon Necklace;Grants resistance to Shackle Arts;100%;95%;90%
+Star Necklace;Grants resistance to Shackle Arts;70%;65%;60%
+Incense of Elegance;Grants resistance to Sleep;100%;95%;90%
+Incense of Calm;Grants resistance to Sleep;70%;65%;60%
+Sage's Auspices;Grants resistance to Bind;100%;95%;90%
+Learned Amulet;Grants resistance to Bind;70%;65%;60%
+Ceramic Underguard;Grants resistance to Shackle Blocking;100%;95%;90%
+Fiber Underguard;Grants resistance to Shackle Blocking;70%;65%;60%
+Lavender Potpourri;Grants resistance to Target Lock;100%;95%;90%
+Mint Potpourri;Grants resistance to Target Lock;70%;65%;60%
+Quantum Scarf;Extends Break duration;27%;26%;25%
+Unicorn Scarf;Extends Break duration;22%;21%;20%
+Chrome Scarf;Extends Break duration;17%;16%;15%
+Platinum Belt;Extends Topple duration;27%;26%;25%
+Black Belt;Extends Topple duration;22%;21%;20%
+White Belt;Extends Topple duration;17%;16%;15%
+Tyrant Ring;Extends Launch duration;27%;26%;25%
+Berserk Ring;Extends Launch duration;22%;21%;20%
+Soldier Ring;Extends Launch duration;17%;16%;15%
+Glistening Medal;Extends Daze duration;27%;26%;25%
+Gleaming Medal;Extends Daze duration;22%;21%;20%
+Glowing Medal;Extends Daze duration;17%;16%;15%
+Break Brooch;Lower attack target's Break resistance by percentage points;25;22;20
+Boost Memory;Expands the window of opportunity for canceling;60%;55%;50%
+Light Memory;Expands the window of opportunity for canceling;45%;40%;35%
+Pale Memory;Expands the window of opportunity for canceling;30%;25%;20%
+Expanding Memory;Extends stance duration;60%;55%;50%
+Luminous Memory;Extends stance duration;35%;30%;25%
+Divining Hairgrip;90% chance to avoid waking enemy from Sleep when auto-attack hits;N/A;N/A;YES
+Four Sea Hairgrip;90% chance to avoid waking enemy from Sleep when Art hits;N/A;N/A;YES
+Crystal Anklets;Ignore Blowdown and Launch by somersaulting;N/A;N/A;YES
+Shackle Ring;Boosts effect of Arts with each different Art used within a set time;NULL;NULL;NULL
+Chain Ring;Boosts effect of Arts with each different Art used within a set time;NULL;NULL;NULL
+Bond Crystal;Speeds up Interlink Level buildup;60%;55%;50%
+Bond Fragment;Speeds up Interlink Level buildup;35%;30%;25%
+Spike Pauldrons;Speeds up Interlink Level buildup Greatly;100%;70%;50%
+Monastic Necklace;Increase Class aptitude;YES;N/A;N/A
+Mastery Necklace;Increase Class aptitude;YES;N/A;N/A
+Scholar Necklace;Increase Class aptitude;YES;N/A;N/A
+Carbide Temple Guard;Boosts maximum HP;35%;N/A;N/A
+Sapphire Belt;Boosts Attack;35%;N/A;N/A
+Circlet of All-Knowing;Boosts Healing;35%;N/A;N/A
+Nanotech Gloves;Boosts Dexterity;35%;N/A;N/A
+Carbide Support;Boosts Agility;35%;N/A;N/A
+Soulgaze Headband;Boosts Critical Rate;50%;N/A;N/A
+Full Weak Guard;Boosts Block Rate;50%;N/A;N/A
+Mighty Bangle;Boosts damage dealt when attacking from the front;30%;N/A;N/A
+Silver Gauntlet;Boosts damage dealt when attacking from the side;30%;N/A;N/A
+Mask of Banishing;Boosts damage dealt when attacking from behind;30%;N/A;N/A
+Accomplished Hairpiece;When landing a hit, deals damage as though enemy's ether defense was lower;35%;N/A;N/A
+Accomplished Sash;On blocking, boosts recharge of one Art at random;15%;N/A;N/A
+Accomplished Vambraces;Lowers attack target's Break resistance by percentage points;30;N/A;N/A
+Accomplished Crown;Boosts maximum HP;40%;N/A;N/A
+Accomplished Necklace;Boosts damage for every enemy in battle (max. 200%);30%;N/A;N/A
+Accomplished Ring;Boosts damage dealt when attacking higher-level enemies;80%;N/A;N/A
