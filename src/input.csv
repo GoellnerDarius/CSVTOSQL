@@ -1,0 +1,524 @@
+No;Location;Region
+1;Rottswoe Battlescar;Aetia Region, Full
+2;Colony 9;Aetia Region, Full
+3;Colony 9 Command;Aetia Region, Full
+4;Flamii Watering Hole;Aetia Region, Full
+5;Sonata Saddleback;Aetia Region, Full
+6;Svinne Cavity;Aetia Region, Full
+7;Spongy Spud Patch;Aetia Region, Full
+8;Berje Belt;Aetia Region, Full
+9;Volff Lair;Aetia Region, Full
+10;Hermit's Alleyway;Aetia Region, Full
+11;Melnath's Pass, Lower;Aetia Region, Full
+12;Colony Gamma;Aetia Region, Full
+13;Gamma, Staging Yard;Aetia Region, Full
+14;Melnath's Pass, Upper;Aetia Region, Full
+15;Coolley Pool;Aetia Region, Full
+16;Viliera Hill;Aetia Region, Full
+17;Wraiths' Void;Aetia Region, Full
+18;Murmur Rise;Aetia Region, Full
+1;Tsang Road;Aetia Region, Upper
+2;Colony Omega;Aetia Region, Upper
+3;Ladras Way;Aetia Region, Upper
+4;Piula Path;Aetia Region, Upper
+5;Cloudkeep;Aetia Region, Upper
+6;Colony 0;Aetia Region, Upper
+1;Elgares Depths;Elgares Depths
+1;Reith Valley;Fornis Region, Full
+2;Piento Basin;Fornis Region, Full
+3;Metamural Garden;Fornis Region, Full
+4;Racine's Platter;Fornis Region, Full
+5;Barren Knoll;Fornis Region, Full
+6;Lake Rezzento;Fornis Region, Full
+7;Ricoth Wellspring;Fornis Region, Full
+8;Dome of Stahl;Fornis Region, Full
+9;Nih'l Valley;Fornis Region, Full
+10;Colony 4;Fornis Region, Full
+11;Colony 4 Central Yard;Fornis Region, Full
+12;Colony 4 Medical Quarter;Fornis Region, Full
+13;Colony 4 Council Room;Fornis Region, Full
+14;Colony 4 Central Hangar;Fornis Region, Full
+15;Colony 4 Observation Deck;Fornis Region, Full
+16;Carafe of Plenty;Fornis Region, Full
+17;Sparres Barr;Fornis Region, Full
+18;Llyn Nyddwr;Fornis Region, Full
+19;Tonic Waters;Fornis Region, Full
+20;Laprel Knoll;Fornis Region, Full
+21;Caitlin Drum;Fornis Region, Full
+22;Sage's Balcony;Fornis Region, Full
+23;Terra Wastelands;Fornis Region, Full
+24;Grun Slope;Fornis Region, Full
+25;Colony 30;Fornis Region, Full
+26;Colony 30 Maintenance Bay;Fornis Region, Full
+27;Beik Vault;Fornis Region, Full
+28;Paltir Hillock;Fornis Region, Full
+29;Precipice of Judgement;Fornis Region, Full
+30;Isla Passerat;Fornis Region, Full
+31;Dumas' Jaw;Fornis Region, Full
+32;Lisza Garden;Fornis Region, Full
+33;Riez Tarn;Fornis Region, Full
+34;Perrato Cave;Fornis Region, Full
+35;Isnie Ledge;Fornis Region, Full
+36;Lomi Hill;Fornis Region, Full
+37;Rutez Barr;Fornis Region, Full
+38;Pinasa Highland;Fornis Region, Full
+39;Selias Terrace;Fornis Region, Full
+40;Bittley Slope;Fornis Region, Full
+41;Tilpa Scree;Fornis Region, Full
+42;Elsayer Cape;Fornis Region, Full
+43;Valley of Anguish;Fornis Region, Full
+44;Namba Mound;Fornis Region, Full
+45;Ypsil Hill;Fornis Region, Full
+46;Sage's Garden;Fornis Region, Full
+47;Apex Wing;Fornis Region, Full
+48;Devil's Skillet;Fornis Region, Full
+49;Fetos Sandgarden;Fornis Region, Full
+50;Dougis Quicksands;Fornis Region, Full
+51;Alefa Skysphere;Fornis Region, Full
+52;Bulik Brae;Fornis Region, Full
+53;Zell Quicksands;Fornis Region, Full
+54;Limoux Hill;Fornis Region, Full
+55;Klondos Table;Fornis Region, Full
+56;Tepnos Heights;Fornis Region, Full
+57;Colony Iota;Fornis Region, Full
+58;Colony Iota North Gate;Fornis Region, Full
+59;Three Heroes Peak;Fornis Region, Full
+60;Hictern's Cleft;Fornis Region, Full
+61;Visura Parkland;Fornis Region, Full
+62;Sequestered Lake;Fornis Region, Full
+63;Zain's Talon;Fornis Region, Full
+64;Great Liente Shelf;Fornis Region, Full
+65;Nid Cave;Fornis Region, Full
+66;Mehnert Interdigit;Fornis Region, Full
+67;Ag's Talon;Fornis Region, Full
+68;Yunnae's Rise;Fornis Region, Full
+1;Milio Trick Caverns;Milio Trick Caverns
+1;Torus Hollow;Torus Hollow
+1;Elevator No. 1;Pentelas Region, Full
+2;Mine No. 1;Pentelas Region, Full
+3;Ruins of Seebu;Pentelas Region, Full
+4;Roaring Spring;Pentelas Region, Full
+5;Quarry Road;Pentelas Region, Full
+6;Elevator No. 3;Pentelas Region, Full
+7;Mine No. 3;Pentelas Region, Full
+8;Cavern Waterway;Pentelas Region, Full
+9;Cavern Waterfall;Pentelas Region, Full
+10;Elevator No. 2;Pentelas Region, Full
+11;Mine No. 2;Pentelas Region, Full
+12;Kachurichu Cavern;Pentelas Region, Full
+13;Third Cataract;Pentelas Region, Full
+14;Fallfoot Battlescar;Pentelas Region, Full
+15;Colony Lambda Ferronis;Pentelas Region, Full
+16;Colony Lambda;Pentelas Region, Full
+17;Cave at Pira Bluffs;Pentelas Region, Full
+18;Muroon Bridge;Pentelas Region, Full
+19;Second Cataract;Pentelas Region, Full
+20;Amoney's Hallows;Pentelas Region, Full
+21;Titan Rock;Pentelas Region, Full
+22;Titan Rock Apex;Pentelas Region, Full
+23;First Cataract;Pentelas Region, Full
+24;Cotte Trick Ruins;Pentelas Region, Full
+25;Cotte Outlook;Pentelas Region, Full
+26;Spring of Rhonnar;Pentelas Region, Full
+27;Spring of Quarquaka;Pentelas Region, Full
+28;Colony Tau;Pentelas Region, Full
+29;Colony Tau, Crop Fields;Pentelas Region, Full
+30;Colony Tau, Ferronis Head;Pentelas Region, Full
+31;Cross-Maktha Elevator (Mutual);Pentelas Region, Full
+32;Tree Hollow Opening;Pentelas Region, Full
+33;Yellowgrove;Pentelas Region, Full
+34;The Tirkinhold;Pentelas Region, Full
+35;Gogols' Tree;Pentelas Region, Full
+36;Archaic Tower;Pentelas Region, Full
+37;Runo Ruins;Pentelas Region, Full
+38;Engardo Pass;Pentelas Region, Full
+39;Balquors Gate;Pentelas Region, Full
+40;Mountain Front: Keves;Pentelas Region, Full
+41;Mountain Front: Agnus;Pentelas Region, Full
+42;Loska's Cavern;Pentelas Region, Full
+43;Loska Plateau;Pentelas Region, Full
+44;Colony 5 Ferronis;Pentelas Region, Full
+1;Ancient Storehouse;Maktha Wildwood, L
+2;Gingin's Treehouse;Maktha Wildwood, L
+3;Cross-Maktha Elevator (Mutual);Maktha Wildwood, L
+4;Cavern of Oblivion;Maktha Wildwood, L
+1;First Ixia Bridge;Syra Hovering Reefs
+2;Colony 11;Syra Hovering Reefs
+3;Colony 11, Training Pit;Syra Hovering Reefs
+4;Hovering Reef 7;Syra Hovering Reefs
+5;Hovering Reef 6;Syra Hovering Reefs
+6;Hovering Reef 5;Syra Hovering Reefs
+7;Hovering Reef 4;Syra Hovering Reefs
+8;Hovering Reef 3;Syra Hovering Reefs
+9;Hovering Reef 2;Syra Hovering Reefs
+10;Hovering Reef 1;Syra Hovering Reefs
+11;Ether Mine;Syra Hovering Reefs
+12;Fourth Ixia Bridge;Syra Hovering Reefs
+13;Gardin Defense Base;Syra Hovering Reefs
+14;Third Ixia Bridge;Syra Hovering Reefs
+15;Fort O'Virbus;Syra Hovering Reefs
+16;Kismet Crossing;Syra Hovering Reefs
+17;Propatheon Cathedral;Syra Hovering Reefs
+18;Guards' Training Yard;Syra Hovering Reefs
+19;Helheim Sky Bridge;Syra Hovering Reefs
+20;Second Ixia Bridge;Syra Hovering Reefs
+21;Hovering Reef 0;Syra Hovering Reefs
+1;Hangar, Lower Level;Castle, 1st Floor
+2;Ceale Great Hall;Castle, 1st Floor
+1;Hangar, Passageway;Castle, 2nd Floor
+2;Hangar, Upper Level;Castle, 2nd Floor
+1;Standby Room #1;Castle, 3rd Floor
+2;Standby Room #2;Castle, 3rd Floor
+3;Hull Maintenance Block;Castle, 3rd Floor
+4;Middle Drainage;Castle, 3rd Floor
+5;Grace Row;Castle, 3rd Floor
+1;Goods Transport Shaft;Castle, 4th Floor
+2;Throne Room;Castle, 4th Floor
+3;Upper Drainage;Castle, 4th Floor
+1;Lower Drainage;Castle Drainage
+1;N'ohm Wetlands;Cadensia Region, Full
+2;Great Sword Passage;Cadensia Region, Full
+3;Sentridge Harbor;Cadensia Region, Full
+4;Knife's Edge Pass;Cadensia Region, Full
+5;Pedesto Valley Floor;Cadensia Region, Full
+6;Hidden Weapon Lab;Cadensia Region, Full
+7;Dock No. 3;Cadensia Region, Full
+8;Samon's Secret Storage;Cadensia Region, Full
+9;Needle Reef Beach;Cadensia Region, Full
+10;Vinisog Holm;Cadensia Region, Full
+11;Cay of the Trick Grotto;Cadensia Region, Full
+12;Baldotas Atoll;Cadensia Region, Full
+13;Farview Cape;Cadensia Region, Full
+14;Corne Island;Cadensia Region, Full
+15;Antol Pit;Cadensia Region, Full
+16;Migrow's Rosary;Cadensia Region, Full
+17;Colony Mu;Cadensia Region, Full
+18;Colony Mu Viewing Deck;Cadensia Region, Full
+19;Colony Mu Hidden Coast;Cadensia Region, Full
+20;Hykt's Cove;Cadensia Region, Full
+21;Cape Arcaphor;Cadensia Region, Full
+22;Daedal Isle;Cadensia Region, Full
+23;Tengate Ruins;Cadensia Region, Full
+24;Oshia's Reef Ravine;Cadensia Region, Full
+25;The Aegis Sea;Cadensia Region, Full
+26;Hargan Point;Cadensia Region, Full
+27;Colony 15;Cadensia Region, Full
+28;Anu Shoals;Cadensia Region, Full
+29;Sea Lizards' Tide Pool;Cadensia Region, Full
+30;Thurbin Island;Cadensia Region, Full
+31;Erythia Relay Base;Cadensia Region, Full
+32;Data Archives;Cadensia Region, Full
+33;Lavi Sandbar;Cadensia Region, Full
+34;Krezen Cliffs;Cadensia Region, Full
+35;Patulia Bay;Cadensia Region, Full
+36;Irma's Secret Base;Cadensia Region, Full
+37;Farlaine Underpass;Cadensia Region, Full
+38;Lost Colony;Cadensia Region, Full
+39;Brasa Geothermal Belt;Cadensia Region, Full
+40;Brasa Spa;Cadensia Region, Full
+41;Rebellion Cave;Cadensia Region, Full
+42;Sea-Gnawed Cave;Cadensia Region, Full
+43;Prison Precipice;Cadensia Region, Full
+44;West Perimeter Gate;Cadensia Region, Full
+45;Hope's Rest;Cadensia Region, Full
+46;Central Harbor;Cadensia Region, Full
+47;Perimeter Bridge;Cadensia Region, Full
+48;Levnis Workyard;Cadensia Region, Full
+49;Food Storage;Cadensia Region, Full
+50;Central Cell;Cadensia Region, Full
+51;Communal Cell Block;Cadensia Region, Full
+52;Perimeter Woodland;Cadensia Region, Full
+53;Watchtower No. 1;Cadensia Region, Full
+54;Guard Quarters;Cadensia Region, Full
+1;Airway Corridor;Great Sword, Upper
+1;Centrilo Parade;City Interior
+2;Mxene Tech Quarter;City Interior
+3;Praetorian Hill;City Interior
+4;Medical Facility;City Interior
+5;Caelum Residential Quarter;City Interior
+6;Virid Park;City Interior
+7;Lost Number Dormitory;City Interior
+8;Training Ground;City Interior
+9;Supply Stockpile;City Interior
+10;Sikert Pathway;City Interior
+11;Ribelly Plaza;City Interior
+1;Ivory Gaol;Ascension Grounds
+1;North Sector Passage;Origin Interior
+2;Amplifier No. 1;Origin Interior
+3;North Shell Passage;Origin Interior
+4;Amplifier Section;Origin Interior
+5;Amplifier No. 2;Origin Interior
+6;Ferronis Arsenal #1;Origin Interior
+7;Ferronis Arsenal #2;Origin Interior
+8;Ferronis Arsenal #3;Origin Interior
+9;East-West Sector Passage;Origin Interior
+10;South Sector Passage;Origin Interior
+11;South Shell Passage;Origin Interior
+12;Hangar, Upper Level;Origin Interior
+13;Hangar, Lower Level;Origin Interior
+14;Hangar Zone;Origin Interior
+15;Central Defense;Origin Interior
+16;Defense Tower #2;Origin Interior
+17;Defense Tower #4;Origin Interior
+18;Central Sector Passage;Origin Interior
+;;
+No;Landmark;Region
+1;Torchlight Hill;Aetia Region, Full
+2;Riccalo Pond;Aetia Region, Full
+3;Colony 9 Rear Gate;Aetia Region, Full
+4;Colony 9 Assembly Square;Aetia Region, Full
+5;Colony 9 Front Gate;Aetia Region, Full
+6;Skyview Falls;Aetia Region, Full
+7;Shark's Jaws Cape;Aetia Region, Full
+8;Alfeto Valley Mouth;Aetia Region, Full
+9;Sepulchral Cliffpath;Aetia Region, Full
+10;Gura Flava Lowlands;Aetia Region, Full
+11;Loch Ciel;Aetia Region, Full
+12;Kilmarris Highland;Aetia Region, Full
+13;Luca's Eyot;Aetia Region, Full
+14;Kamos Guidepost;Aetia Region, Full
+15;Milick Ravine Way;Aetia Region, Full
+16;Gamma, Main Approach;Aetia Region, Full
+17;Gamma, Assembly Yard;Aetia Region, Full
+18;Gamma, Back Way;Aetia Region, Full
+19;Watchpoint Bridge;Aetia Region, Full
+20;Elgares Depths Entrance;Aetia Region, Full
+21;Coolley Lake;Aetia Region, Full
+1;Captocorn Pass;Aetia Region, Upper
+2;Gava Junction;Aetia Region, Upper
+3;Altar of Reception;Aetia Region, Upper
+4;Spoondrift Gate;Aetia Region, Upper
+5;Hall of the Serene;Aetia Region, Upper
+6;Noccila Mire;Aetia Region, Upper
+1;Ordell Ravine Way;Fornis Region, Full
+2;Menno Arch;Fornis Region, Full
+3;Galghour's Menhir;Fornis Region, Full
+4;Wall of the Great Hand;Fornis Region, Full
+5;Gorge of Odie;Fornis Region, Full
+6;Bennel Cave;Fornis Region, Full
+7;Hegemon's Seat;Fornis Region, Full
+8;Colony 4 Ferronis Hatch;Fornis Region, Full
+9;Colony 4 Checkpoint;Fornis Region, Full
+10;Colony 4 Command;Fornis Region, Full
+11;Zem's Crossway;Fornis Region, Full
+12;Killy Fors;Fornis Region, Full
+13;Magglia Lake;Fornis Region, Full
+14;Shikashaka Mesa;Fornis Region, Full
+15;Igno Viaduct;Fornis Region, Full
+16;Elsie's Spout;Fornis Region, Full
+17;Tirkin Headquarters;Fornis Region, Full
+18;Colony 30 Cave Mouth;Fornis Region, Full
+19;Conqueror's Peak;Fornis Region, Full
+20;Saffronia Tree;Fornis Region, Full
+21;The Lace Subterranean;Fornis Region, Full
+22;Old Kana Battlefield;Fornis Region, Full
+23;Urayan Tunnels, Entrance;Fornis Region, Full
+24;Orochi's Crag;Fornis Region, Full
+25;Dow Dolmen;Fornis Region, Full
+26;Great Idalla Ravine;Fornis Region, Full
+27;Raptor Perch;Fornis Region, Full
+28;Sage's Domicile;Fornis Region, Full
+29;Zorza's Stonehammer;Fornis Region, Full
+30;Quicksand Basin;Fornis Region, Full
+31;Glam Rock;Fornis Region, Full
+32;Peshris Fountain;Fornis Region, Full
+33;Dies Arch;Fornis Region, Full
+34;Colony Iota South Gate;Fornis Region, Full
+35;Colony Iota Base Entrance;Fornis Region, Full
+36;Singbreeze Funnel;Fornis Region, Full
+37;Purus Palecolumn;Fornis Region, Full
+38;Igna Conglomerate;Fornis Region, Full
+39;Slanne Wondersphere;Fornis Region, Full
+40;Eldritch Obelisk;Fornis Region, Full
+41;Ecto Hollow;Fornis Region, Full
+1;Cadion Cliffside;Torus Hollow
+2;Hidden Stash;Torus Hollow
+1;Garf Mine Track;Pentelas Region, Full
+2;Stoneyard;Pentelas Region, Full
+3;Ore Stockpile;Pentelas Region, Full
+4;Aquifer Exhaust;Pentelas Region, Full
+5;Myma Gate;Pentelas Region, Full
+6;Vista of Rhonnar;Pentelas Region, Full
+7;Colony Tau Entrance;Pentelas Region, Full
+8;Colony Tau Ferronis;Pentelas Region, Full
+9;Colony Tau Watchtower;Pentelas Region, Full
+10;Windstrong Bluffs;Pentelas Region, Full
+11;Pelza's Pass;Pentelas Region, Full
+1;Colony Lambda, Cave Mouth;Colony Lambda
+2;Clearwater Shelf;Colony Lambda
+1;Warning Tree;Makhta Wildwood, L
+2;Forgotten Trick Gate;Makhta Wildwood, L
+1;Penshia Portal;Syra Hovering Reefs
+2;Colony 11: West Gate;Syra Hovering Reefs
+3;Colony 11: East Gate;Syra Hovering Reefs
+4;Ekdaso Verge;Syra Hovering Reefs
+5;Great Sword Furrow;Syra Hovering Reefs
+6;East Gate Road;Syra Hovering Reefs
+7;West Gate Road;Syra Hovering Reefs
+1;Storage Area #1;Castle, 1st Floor
+2;Storage Area #2;Castle, 1st Floor
+3;Hangar, Lower: East Gate;Castle, 1st Floor
+4;Hangar, Lower: West Gate;Castle, 1st Floor
+5;Main Castle Gate;Castle, 1st Floor
+6;Ascension Hall;Castle, 1st Floor
+1;Hangar, Upper: Main Gate;Castle, 2nd Floor
+1;Troop Reserve Section;Castle, 3rd Floor
+2;Annihilator Foundations;Castle, 3rd Floor
+3;Revelation Hall;Castle, 3rd Floor
+1;Grand Tower Walkway;Castle, 4th Floor
+1;Drainage Sluice;Castle Drainage
+1;Sturc Gully Gate;Cadensia Region, Full
+2;Bannis Path;Cadensia Region, Full
+3;The Swordface;Cadensia Region, Full
+4;Fuller Elevator Landing;Cadensia Region, Full
+5;Sentridge Harbor Control;Cadensia Region, Full
+6;Morrack Inlet;Cadensia Region, Full
+7;Cradle Convoy Shelter;Cadensia Region, Full
+8;Pioneer's Inlet;Cadensia Region, Full
+9;Doublecrag Gate;Cadensia Region, Full
+10;Twinpalm Isle;Cadensia Region, Full
+11;Conchrock Beach;Cadensia Region, Full
+12;Colony Mu Main Gate;Cadensia Region, Full
+13;Bed of Woes and Wishes;Cadensia Region, Full
+14;Colony Mu, Respite Ranch;Cadensia Region, Full
+15;Cascade Crossroads;Cadensia Region, Full
+16;Welkin Falls;Cadensia Region, Full
+17;First Pillar Remnant;Cadensia Region, Full
+18;Eternal Canopy;Cadensia Region, Full
+19;Fifth Pillar Remnant;Cadensia Region, Full
+20;Ishan Isle;Cadensia Region, Full
+21;Predator's Paw;Cadensia Region, Full
+22;Seaspray Lookout;Cadensia Region, Full
+23;Thurbin Harbor;Cadensia Region, Full
+24;Relay Base Bridge;Cadensia Region, Full
+25;Second Pillar Remnant;Cadensia Region, Full
+26;Third Pillar Remnant;Cadensia Region, Full
+27;Fourth Pillar Remnant;Cadensia Region, Full
+28;Vent Entrance;Cadensia Region, Full
+29;Perimeter Outlet;Cadensia Region, Full
+30;Prison Camp, Freight Gate;Cadensia Region, Full
+31;Mulus Depot;Cadensia Region, Full
+32;Funicular Approach;Cadensia Region, Full
+33;Levnis Workyard Entrance;Cadensia Region, Full
+34;Old Road of Rebirth;Cadensia Region, Full
+35;Hermit's Inlet;Cadensia Region, Full
+36;Rujah Headwaters;Cadensia Region, Full
+37;Chief's Quarters;Cadensia Region, Full
+38;Place of Heroes Past;Cadensia Region, Full
+39;Searing Strand;Cadensia Region, Full
+40;Malevolent Hollow;Cadensia Region, Full
+41;Emerald Font;Cadensia Region, Full
+42;Demihuman Gutter;Cadensia Region, Full
+1;Dolgan Cliff;Great Sword, Upper
+2;Material Storage Warehouse;Great Sword, Upper
+3;City Entrance;Great Sword, Upper
+4;Shattered Pathway;Great Sword, Upper
+1;Serene Square;City Interior
+2;Astelle Harbor;City Interior
+3;Module Warehouse;City Interior
+4;Remembrance Stones;City Interior
+5;Memorial Hall;City Interior
+6;War Room;City Interior
+7;Mitia Lookout;City Interior
+1;Ascension Grounds;Ascension Grounds
+1;Force Field Generator Base;Origin Interior
+2;Amplifier No. 1: Upper Gate;Origin Interior
+3;Amplifier No. 1: Lower Gate;Origin Interior
+4;Amplifier No. 2: Upper Gate;Origin Interior
+5;Amplifier No. 2: Lower Gate;Origin Interior
+6;Ferronis Arsenal #1: E. Gate;Origin Interior
+7;Ferronis Arsenal #1: S. Gate;Origin Interior
+8;Ferronis Arsenal #3: N. Gate;Origin Interior
+9;Ferronis Arsenal #3: E. Gate;Origin Interior
+10;Eternal Prison;Origin Interior
+11;Hangar, Upper: East Gate;Origin Interior
+12;Hangar, Upper: West Gate;Origin Interior
+13;Hangar, Lower: Main Gate;Origin Interior
+14;Supply Storage #2;Origin Interior
+15;Defense Tower #1;Origin Interior
+16;Defense Tower #3;Origin Interior
+17;Arms Storage Tower, Lower;Origin Interior
+18;Amphitheater;Origin Interior
+19;Nocclia Mire;Aetia Region, Upper
+;;
+No;Secret Area;Region
+1;Transcendent Retreat;Aetia Region, Full
+2;Fuschian Fields;Aetia Region, Full
+1;Forerunners' Tower;Fornis Region, Full
+2;Serrato Spring;Fornis Region, Full
+3;The Blue Bluffs;Fornis Region, Full
+4;Distant Fingertip;Fornis Region, Full
+1;Hidden Freshwater Inlet;Pentelas Region, Full
+2;Cotte Fountainhead;Pentelas Region, Full
+1;Radial Outlook;Cadensia Region, Full
+2;Eternal Elegance;Cadensia Region, Full
+1;Holy Lid;Syra Hovering Reefs
+1;Grand Tower Skygarden;Castle, 5th Floor
+2;Queen's Chamber;Castle, 5th Floor
+;;
+No;Rest Spot;Region
+1;Forward Post Camp;Aetia Region, Full
+2;Gura Flava Camp;Aetia Region, Full
+3;Hillside Ferronis Hulk;Aetia Region, Full
+4;Colony 9 Canteen;Aetia Region, Full
+5;Colony 9 Barracks;Aetia Region, Full
+6;Colony Gamma Canteen;Aetia Region, Full
+7;Coolley Pool Camp;Aetia Region, Full
+8;Battlescar Ferronis Hulk;Aetia Region, Full
+1;Tsang Camp;Aetia Region, Upper
+2;Colony Omega Camp;Aetia Region, Upper
+3;Ladras Camp;Aetia Region, Upper
+1;Depths Camp;Elgares Depths
+1;Lake Rezzento Camp;Fornis Region, Full
+2;Bennel Cave Camp;Fornis Region, Full
+3;Colony 4 Barracks;Fornis Region, Full
+4;Colony 4 Canteen;Fornis Region, Full
+5;Llyn Nyddwr Camp;Fornis Region, Full
+6;Colony 30 Canteen;Fornis Region, Full
+7;Tableland Ferronis Hulk;Fornis Region, Full
+8;Seilas Terrace Camp;Fornis Region, Full
+9;Namba Mound Camp;Fornis Region, Full
+10;Desert Ferronis Hulk;Fornis Region, Full
+11;Colony Iota Canteen;Fornis Region, Full
+12;Visura Parkland Camp;Fornis Region, Full
+1;Generator Control Room;Pentelas Region, Full
+2;Ruins of Seebu Camp;Pentelas Region, Full
+3;Titan Rock Camp;Pentelas Region, Full
+4;Cascade Ferronis Hulk;Pentelas Region, Full
+5;Old Way Camp;Pentelas Region, Full
+6;Colony Tau Canteen;Pentelas Region, Full
+7;Sparkling Pool Camp;Pentelas Region, Full
+8;Tower Camp;Pentelas Region, Full
+9;Engardo Pass Camp;Pentelas Region, Full
+10;Clifftop Ferronis Hulk;Pentelas Region, Full
+1;Colony Lambda Shelter;Colony Lambda
+2;Colony Lambda Canteen;Colony Lambda
+1;Colony 11 Canteen;Syra Hovering Reefs
+2;Hovering Reef 2 Camp;Syra Hovering Reefs
+3;The Tap-Dancing Nopon;Syra Hovering Reefs
+1;Storage Area #3;Castle, 2nd Floor
+1;Equipment Storage;Castle, 3nd Floor
+1;Upper Water Supply;Castle, 4nd Floor
+1;Headwater Camp;Cadensia Region, Full
+2;Vinisog Holm Camp;Cadensia Region, Full
+3;Atoll Ferronis Hulk;Cadensia Region, Full
+4;Corne Island Camp;Cadensia Region, Full
+5;Colony Mu Canteen;Cadensia Region, Full
+6;Colony Mu Barracks;Cadensia Region, Full
+7;Inlet Camp;Cadensia Region, Full
+8;Hargan Point Camp;Cadensia Region, Full
+9;Anu Shoals Camp;Cadensia Region, Full
+10;Sandbar Ferronis Hulk;Cadensia Region, Full
+11;Sea-Gnawed Camp;Cadensia Region, Full
+12;Lost Colony Barracks;Cadensia Region, Full
+1;Michiba Canteen;City Interior
+2;City Camp;City Interior
+1;Cell No. 1;Li Garte Prison Camp
+2;Central Cell Canteen;Li Garte Prison Camp
+1;Death's Door;Ascension Grounds
+2;Station Breakroom;Ascension Grounds
+1;Cabin of the Bravery;Origin Interior
+2;Amplifier Control Room;Origin Interior
+3;Arsenal Control Room;Origin Interior
+4;Supply Storage #1;Origin Interior
+5;Arms Storage Tower, Upper;Origin Interior
